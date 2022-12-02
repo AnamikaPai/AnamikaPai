@@ -1,0 +1,7 @@
+For android users, 
+1. Navigate to "Application search" on your phone 
+2. Select " Calculator" app and the app will open up
+3. For basic arithmetic operations {Add (+) , Subtract (-) , multiply (x) , Divide ( /)} , use the number keys and mathematical operators that you see on your screen. 
+4. To obtain the result , use '=' 
+5. To erase stepwise , use <- key 
+6. For advanced arithmetic operations, click on ^. Refer section 2 for advanced arithemntic operations 
